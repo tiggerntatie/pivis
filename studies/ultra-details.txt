@@ -1,0 +1,6 @@
+Total Scene Processing Times
+  Parse Time:    0 hours  0 minutes  4 seconds (4 seconds)
+  Photon Time:   0 hours  0 minutes  0 seconds (0 seconds)
+  Render Time: 253 hours 52 minutes 39 seconds (913959 seconds)
+  Total Time:  253 hours 52 minutes 43 seconds (913963 seconds)
+

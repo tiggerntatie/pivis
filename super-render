@@ -1,0 +1,4 @@
+#!/bin/bash
+povray +W1280 +H960 +A0.0 +GIpivis-super.ini pivis.pov
+mv pivis.png pivis-super.png
+
